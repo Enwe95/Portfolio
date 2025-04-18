@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href="https://cvkevin.vercel.app/" target="_blank">kev.tech</a>
+  <a href="https://cvenwe95.vercel.app/" target="_blank">kev.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
@@ -17,7 +17,7 @@ Vous pouvez dupliquer ce dépôt pour le modifier et l’adapter selon vos besoi
 
 ## Technologies utilisées
 
-Mon portfolio personnel [cvkevin.vercel.app](https://cvkevin.vercel.app/), qui met en avant certains de mes projets GitHub, ainsi que mon CV et mes compétences techniques.
+Mon portfolio personnel [cvenwe95.vercel.app](https://cvenwe95.vercel.app/), qui met en avant certains de mes projets GitHub, ainsi que mon CV et mes compétences techniques.
 
 Ce projet a été développé avec les technologies suivantes :
 
