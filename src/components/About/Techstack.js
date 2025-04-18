@@ -28,25 +28,13 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiSpringboot />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftazure />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiJenkins />

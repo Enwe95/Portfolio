@@ -14,26 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Conçu et développé par Kevin Pereira 🔥</h3>
+          <h3>Conçu et développé par Enwe95 🔥</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
-          <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/pereirak/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
             <li className="social-icons">
               <a
-                href="https://github.com/KevinP93"
+                href="https://github.com/Enwe95"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

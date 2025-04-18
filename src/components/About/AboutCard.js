@@ -8,12 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-          👋 Hello tout le monde ! Je m'appelle <span className="purple">Kevin Pereira, </span>
+          👋 Hello tout le monde ! Je m'appelle <span className="purple">Enwe95, </span>
             et je suis passionné par le  <span className="purple"> développement logiciel.</span>
             <br />
-            Actuellement, je travaille en tant que <span className="purple">développeur fullstack,</span>
-            <br />
-            et je suis titulaire d'un <span className="purple">Master en Architecture Logicielle et Développement d'Applications.</span> 
+            Actuellement, je cherche un travail en tant que <span className="purple">développeuse fullstack,</span>
             <br />
             <br />
             💻 En dehors du code, j’aime aussi :
@@ -25,10 +23,6 @@ function AboutCard() {
             <li className="about-activity">
                ⚽ Faire du sport
             </li>
-            <li className="about-activity">
-               🎮 Jouer aux jeux vidéo
-            </li>
-            
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>

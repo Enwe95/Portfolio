@@ -20,7 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             Passionné par l’innovation et le développement informatique, 
-            je mets ma créativité et mon expertise au service de solutions performantes et efficaces. 👨‍💻
+            je mets ma créativité et mon expertise au service de solutions performantes et efficaces.
               <br />
               <br />🚀 Maîtrisant
               <i>
@@ -54,19 +54,9 @@ function Home2() {
             N'hésitez pas à <span className="purple">me contacter et à échanger </span> avec moi ! 😊
             </p>
             <ul className="home-about-social-links">
-            <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/pereirak/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/KevinP93"
+                  href="https://github.com/Enwe95"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
