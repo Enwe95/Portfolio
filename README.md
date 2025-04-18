@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href="https://cvenwe95.vercel.app/" target="_blank">kev.tech</a>
+  <a href="https://cvenwe95.vercel.app/" target="_blank">enwe.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
