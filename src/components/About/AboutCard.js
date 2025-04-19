@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
           👋 Hello tout le monde ! Je m'appelle <span className="purple">Enwe95, </span>
-            et je suis passionné par le  <span className="purple"> développement logiciel.</span>
+            et je suis passionnée par le  <span className="purple"> développement logiciel.</span>
             <br />
             Actuellement, je cherche un travail en tant que <span className="purple">développeuse fullstack,</span>
             <br />

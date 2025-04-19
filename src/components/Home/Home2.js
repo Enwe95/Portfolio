@@ -19,7 +19,7 @@ function Home2() {
             LAISSEZ-MOI ME <span className="purple"> PRÉSENTER </span> 
             </h1>
             <p className="home-about-body">
-            Passionné par l’innovation et le développement informatique, 
+            Passionnée par l’innovation et le développement informatique, 
             je mets ma créativité et mon expertise au service de solutions performantes et efficaces.
               <br />
               <br />🚀 Maîtrisant
@@ -28,17 +28,7 @@ function Home2() {
               </i>
                à différents niveaux, j’aime concevoir et optimiser des applications modernes.
               <br />
-              <br />
-              Mon intérêt se porte particulièrement sur  &nbsp;
-              <i>
-                <b className="purple">la création de nouvelles technologies  </b> et de
-                 {" "}
-                <b className="purple">
-                produits web innovants.
-                </b>
-              </i>
-              <br />
-              <br />
+            
             </p>
           </Col>
           <Col md={4} className="myAvtar">
